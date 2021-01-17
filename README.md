@@ -1,4 +1,4 @@
-# Level_2_-_Capstone-Project-1_-_OOP
+# OOP demo ver. 1
 
 _A simple managing program using oop basics_
 
